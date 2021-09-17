@@ -1,0 +1,32 @@
+{
+  "name": "uptimemonitor",
+  "version": "0.0.1",
+  "description": "Uptime monitor is a free-to-use server monitoring tool",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "main": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinPooters/UptimeMonitor.git"
+  },
+  "keywords": [
+    "Uptime",
+    "Monitor",
+    "Monitor",
+    "uptime",
+    "server",
+    "information",
+    "server",
+    "manager",
+    "server",
+    "management"
+  ],
+  "author": "Justin Pooters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustinPooters/UptimeMonitor/issues"
+  },
+  "homepage": "https://github.com/JustinPooters/UptimeMonitor#readme"
+}
